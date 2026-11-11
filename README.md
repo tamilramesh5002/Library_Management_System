@@ -104,25 +104,15 @@ This project demonstrates practical implementation of the following C programmin
 - C Development Environment
 - Basic knowledge of C programming
 
-Compile
-
-
-gcc main.c -o library
-
+Compile : gcc main.c -o library
 
 Execute
+Linux / Ubuntu : ./library
 
-Linux / Ubuntu:
-
-./library
-
-
-Windows:
-
-library.exe
+Windows : library.exe
 
 
- 8. Learning Outcomes
+8. Learning Outcomes
 
 Developing this project provided practical experience in:
 
@@ -145,11 +135,11 @@ Developing this project provided practical experience in:
 
  10. Author
 
- Tamil R
+  Tamil R
 
-Electronics and Communication Engineering
+  Electronics and Communication Engineering
 
-GitHub:https://github.com/tamilramesh5002
+  GitHub:https://github.com/tamilramesh5002
 
 
 
