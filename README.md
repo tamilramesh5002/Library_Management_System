@@ -36,22 +36,19 @@ The system provides essential functionalities, including book insertion, deletio
 
 The application follows a modular design in which each header file is responsible for a specific functionality.
 
-Library-Management-System/
-│
-├── main.c
-│
-├── Header Files/
-│   ├── add.h
-│   ├── mainmenu.h
-│   ├── print.h
-│   ├── read.h
-│   ├── remove.h
-│   ├── save.h
-│   ├── search.h
-│   ├── struct.h
-│   └── update.h
-│
-└── README.md
+Library-Management-System/ 
+
+- main.c
+- Header Files/
+- add.h
+- mainmenu.h
+- print.h
+- read.h
+- remove.h
+- save.h
+- search
+- struct.h
+- update.h
 
  Header File Responsibilities
 
@@ -109,19 +106,19 @@ This project demonstrates practical implementation of the following C programmin
 
 Compile
 
-bash
+
 gcc main.c -o library
 
 
 Execute
 
 Linux / Ubuntu:
-bash
+
 ./library
 
 
 Windows:
-bash
+
 library.exe
 
 
